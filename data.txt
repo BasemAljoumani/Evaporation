@@ -1,4 +1,7 @@
 <p> we now did a lot of work</p>
+<<<<<<< HEAD
 <p> o1 </p>
 <p> o2 </p>
 
+=======
+>>>>>>> parent of 520c5d3 (add o1 to data.txt)
